@@ -1,0 +1,815 @@
+html, body { 
+    min-height: 100%;
+    
+    
+}
+
+
+
+
+body{
+    overflow-x: hidden;
+    margin: 0px;
+   min-height: 100%;
+   width: 100%;
+    background-color:white;
+    
+    
+}
+html{
+    
+    margin: 0px;
+    height: 100%;
+    width: 100%;
+}
+
+
+head{
+    
+
+}
+
+
+
+.box-gray
+
+{   width: 1590;
+    
+    
+       }
+
+.logotop{
+  margin-left: -50px;
+
+
+}    
+.ppimg{
+
+    
+}
+
+.toprightmenu{
+ 
+width: 1000px;
+
+}
+.Proftext{
+    color: rgb(255, 250, 250);
+  
+    
+}
+.display-6{
+    font-size: 50px;
+    margin-top: 50px;
+    
+    
+}
+
+
+.display-55{
+    font-size: 30px;
+    
+    
+}
+
+.display-552{
+    color: rgba(68, 67, 67, 0.815);
+    font-size: 25px;
+    
+}
+.small-box1{
+    position: absolute;
+    background-color: rgba(85, 85, 85, 0.233);
+    color: white;
+    font-size: 18px;
+    padding: 4px 4px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    
+    margin-left: 22cm;
+    
+}
+.small-box2{
+    position: absolute;
+    background-color: rgba(85, 85, 85, 0.233);
+    color: white;
+    font-size: 18px;
+    padding: 4px 4px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 18cm;
+    
+}
+.small-box3{
+    position: absolute;
+    background-color: rgba(85, 85, 85, 0.233);
+    color: white;
+    font-size: 18px;
+    padding: 4px 4px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 20cm;
+    
+}
+.small-box4{
+    position: absolute;
+    background-color: rgba(85, 85, 85, 0.233);
+    color: white;
+    font-size: 18px;
+    padding: 4px 4px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 16cm;
+    
+}
+
+.logole{
+    margin-left: 200px;
+    
+}
+.searchbarr {
+    position: absolute;
+     top: 34px;
+     right: 350px;
+    height: 10cm;
+    width: 5cm;
+    
+}
+.box-nav{
+    width: 2000;
+    height:900px;
+    background-color: rgba(197, 60, 60, 0.938);
+    
+    
+    }
+.reg-box{
+    background-color: rgba(208, 19, 233, 0.788);
+    width: 140px;
+    height: 40px;
+    
+}
+
+.lang-box{
+
+    margin-bottom: -10px;
+    
+
+}
+.cardbtn{
+    width: 38px;
+    margin-top: -35px;
+    font-size: 20px;
+    border-radius: 50%;
+    
+}
+.cardbody{
+border-bottom: 2px solid black ;
+
+
+
+}
+
+.heart{
+    margin-top: -35px;
+    margin-left: 200px;
+    
+}
+
+.bordertest{
+    border-style: groove;
+    
+}
+.navheadcontroll{
+    padding-left: 350px;
+    margin-top: 10px;
+    height: 50px;
+    
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.wordbelowmenu{
+ text-align: center;
+ background-color: rgba(211, 204, 204, 0.397);
+ height: 150px;
+
+}
+.greylettersmal{
+  color: gray;
+ padding-top: 30px;
+}
+.greybig{
+color: gray;
+float: left;
+margin-left: 370px;
+
+}
+.bigblackletter{
+    margin-right: 370px;
+    float: none;
+}
+
+.paddinghome{
+    width: 150px;
+    border-left: solid gray 2px;
+    margin-right: 0px;
+    border-right: solid gray 2px ;
+    margin-left: 30px;
+    
+}
+.paddinghome2{
+    width: 170px;
+    padding-left: 7px ;
+    margin-right: 14px;
+    border-right: solid gray 2px ;
+    
+}
+.paddinghome3{
+    width: 130px;
+    padding-left: 0px ;
+    padding-right: 17px ;
+    margin-right: 20px;
+    border-right: solid gray 2px ;
+    
+}
+.navboxcontrol{
+   margin-left: 50px;
+}
+
+
+.nav-foot-1{
+    margin-left: 20px;
+    height: 10cm;
+    
+
+}
+.nav-foot-2{
+    
+    margin-left: 310px;
+    margin-top: -410px;
+    height: 10cm;
+}
+.nav-foot-3{
+    margin-left: 500px;
+    margin-top: -445px;
+    height: 10cm;
+    
+}
+
+.nav-foot-4{
+   
+    
+    margin-left: 1090px;
+    margin-top: -10px;
+    
+}
+.footitem4-1{
+    text-align: right;
+    width: 12cm;
+    margin-top: -500px;
+
+}
+.footitem4-2{
+    text-align: right;
+    width: 12cm;
+    font-size: 10px;
+    height: 20px;
+   
+}
+.footitem4-3{
+    padding-top:20px;
+    text-align: right;
+    width: 20cm;
+    font-size: 12px;
+    margin-left: -300px;
+   
+}
+.foot1-1{
+    margin-top: -20px  ;
+}
+
+
+.foot4text{
+
+    margin-top: 80px;
+}
+
+.socialtab{
+    margin-left: 1300px;
+    margin-top: -740px;
+    
+}
+.FixFacebook{
+    padding-right: 15px;
+}
+.FixInstagram{
+    padding-right: 15px;
+   
+}
+.FixTwitter{
+    padding-right: 15px;
+}
+.intercontact{
+    text-align: right;
+   
+   margin-top: 140px;
+   width: 300px;
+   padding-right:5px ;
+   margin-left: -300px;
+}
+.footerlasttext{
+    
+    
+    
+    background-color: black;
+    width: 1640px;
+    text-align: center;
+    margin-left: -790px;
+    margin-top: -103px;
+    height: 60px;
+    
+}
+.borderfooter{
+    border-top: 2px solid rgba(228, 221, 221, 0.432);
+  width: 1500px;
+   margin-left: -700px;
+   margin-top: -103px;
+   
+   position: absolute;
+  
+}
+.agegapcard{
+    margin-top: -630px;
+    height: 20cm;
+    width: 18cm;
+    margin-left: 820px;
+    border-radius: 30%;
+}
+.vdoUndertextagegap{
+
+    
+    width: 20cm;
+    height: 10cm;
+   
+}
+.textleftagegap{
+    
+     margin-left: 50px;
+     margin-top: 50px;
+
+    
+}
+.imggbtn{
+    margin-left: -970px;
+    width: 1750px;
+   
+   
+    
+}
+.imgWbtm{
+    margin-left: -780px;
+    margin-top: 120px;
+    
+    
+}
+.texonbigpic{
+    margin-left: -800px;
+    
+    margin-top: -500px;
+}
+
+.cardbodyA1{
+    border-bottom: 2px solid black ;
+    margin-left: 3px;
+    
+    
+    }
+.cardbodyA2{
+   border-bottom: 2px solid black ;
+    margin-left: 3px;
+    margin-top: -25px;
+    padding-top: 25px;
+    padding-bottom: 50px;
+        
+        
+}
+.cardbodyA3{
+    border-bottom: 2px solid black ;
+     margin-left: 3px;
+     margin-top: -25px;
+     padding-top: 25px;
+     padding-bottom: 50px;
+         
+         
+ }
+ .cardbodyA4{
+    border-bottom: 2px solid black ;
+     margin-left: 3px;
+     margin-top: -25px;
+     padding-top: 25px;
+     padding-bottom: 50px;
+         
+         
+ }
+ .LLBIGTEXT{
+    margin-left: -920px; 
+    margin-top: 180px;
+    width: 100%;
+    
+ }
+ .ABLEALIGN{
+
+    
+ }
+ .ABOUT-LE{
+margin-left: -250px;
+margin-top: 10px;
+width: 15cm;
+height: 11cm;
+
+
+
+ }
+
+ .overcontrolABLE1{
+    width: 15cm;
+    height: 11cm;
+    margin-left: -11.5cm;
+    box-shadow: 15px 60px 10px #88888863;
+    
+    
+    
+ }
+ .cardABLE1{
+     padding-top: 5px;
+     padding-bottom: 5px;
+     border-radius: 25px;
+     padding-left: 4.5px;
+     
+     
+ }
+ .overcontrolABLE2{
+    margin-top: -200px;
+    width: 10cm;
+    height: 13cm;
+    margin-left: 3cm;
+    box-shadow: 5px 12px 10px #88888863;
+    
+ }
+ .cardbodyABLE2{
+    box-sizing: 50px;
+    padding-bottom: 50px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  
+   
+
+ }
+ .ABLE2pic{
+     padding-top: 250px;
+ }
+ .bigpicleab2{
+     
+     margin-left: -30px;
+     
+ }
+ 
+ .DRalign{
+     border-top: 2px  solid rgba(83, 81, 81, 0.507);
+     padding-left: 90px;
+     margin-top: -50px;
+     
+ }
+
+ .boxfordr{
+    
+    width: 300px;
+    margin-bottom: -150px;
+    margin-top: 170px;
+}
+.ABLE2{
+margin-bottom: -550px;
+
+}
+
+.cardbodyABLE3{
+    box-sizing: px;
+    padding-bottom: 50px;
+    display: flex;
+    text-align: left;
+    justify-content: start;
+    align-items: flex-start;
+    flex-direction: column;
+    padding-top: 50px;
+    margin-bottom: 50px;
+    padding-left: 7px;
+}
+
+.overcontrolABLE3{
+    width: 10cm;
+    height: 11cm;
+    margin-left: -218px;
+    margin-top: -100px;
+    box-shadow: 5px 12px 10px #88888863;
+    
+}
+
+.boxfor-TEXT-ABLE3{
+    width: 250px;
+    margin-left: 50px;
+    
+}
+.btnmoreAB{
+    margin-left: 50px;
+}
+
+.overcontrolABLE4{
+    width: 13cm;
+    height: 10cm;
+    margin-left: 3.2cm;
+    margin-top: -200px;
+    box-shadow: 15px 60px 10px #88888863;
+    
+ }
+ .cardABLE4{
+     padding-top: 5px;
+     padding-bottom: 5px;
+     border-radius: 25px;
+     padding-left: 4.5px;
+     
+ }
+ .ABLE-pic4{
+
+
+ }
+
+.imggbtn2{
+    margin-left: 10px;
+    width: 1800px;
+    height: 500px;
+    margin-top: 150px;
+  
+}
+.learnbtn2{
+    text-align: center;
+padding-top: 50px;
+width: 50px;
+}
+
+.textlrnbtn22{
+    text-align: center;
+padding-top: 50px;
+width: 50px;
+}
+
+.overcontrolABLEbot2{
+    box-sizing: 50px;
+    padding-bottom: 50px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-left: -590px;
+    width: 1590px;
+    margin-top: 10px;
+    
+    
+    
+
+    
+}
+.texonbigpic2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -400px;
+    text-align: center;
+    flex-direction: column;
+    width: 1000px;
+    margin-left:-300px;
+    
+}
+.regwus{
+    text-align: center;
+    
+    
+}
+.btm2{
+    margin-top: 30px;
+    margin-left: 150px;
+    
+    
+}
+.eventwtf{
+
+ height: 50px;    
+}
+
+.eventimgsize{
+    height: 150px; 
+    width: 500px;
+    
+}
+.eventalign{
+    margin-left: -380px;
+    margin-top: 300px;
+    width: 400px;
+    
+    
+}
+
+.eventalign2{
+    width: 400px;
+    margin-top: 300px;
+    margin-left: 20px;
+}
+
+.eventalign3{
+    width: 400px;
+    margin-left: 450px;
+    margin-top: -170px;
+
+}
+.upevent{
+    margin-left: -100px;
+    margin-top: 250px;
+    margin-bottom: -260px;
+    text-align: center;
+    
+
+}
+.btmev{
+    margin-top: 30px;
+    margin-left: 150px;
+   
+    
+
+}
+.percentbox{
+    margin-left: -600px;
+    padding-right: 550px;
+    
+    background-color:rgba(128, 128, 128, 0.527);
+ width: 1620px;
+ height: 350px;
+ margin-top: 20px;
+ 
+}
+
+.textinpercent1{
+font-size: 100px;
+margin-top: 85px;
+
+}
+
+.alignpercent{
+    margin-left: 250px;
+    
+    text-align: center  ;
+    justify-content: center;
+    align-items: flex-center;
+    flex-direction: column;
+    height: 8cm;
+    width: 30cm;
+    
+    
+}
+.textinpercent3{
+    font-size: 100px;
+    margin-top: 90px;
+    
+    }
+.textinpercent2{
+        font-size: 100px;
+        margin-top: 85px;
+        
+        }
+.black-footer{
+    width: 1620px;
+    height: 15cm;
+    background-color: black;
+    margin-left: -600px;
+    
+    margin-top: -10px;
+    
+    
+}
+.alligntextfooter{
+    color: blanchedalmond;
+    
+}
+.smallfootcontrol{
+  width: 20cm;
+  height: 15cm ;
+  color: blanchedalmond;
+  margin-left: 20px;
+  
+}
+.footsmallalign1{
+    margin-top: 5px;
+}
+.footsmallalign2{
+    margin-left: -50px;
+    margin-top: 5px;
+    
+}
+.footsmallalign3{
+    margin-left: -100px;
+    width: 140px;
+    margin-top: 5px;
+}
+.rightfootcontrol{
+    
+    width: 20cm;
+    height: 18x;
+    margin-top: -560px;
+    text-align: right;
+    margin-left: 800px;
+    color: blanchedalmond;
+    
+    
+}
+.footicon{
+    
+    width: 50px;
+    margin-left: 430px;
+    text-align: center;
+    
+}
+.aligniconsc{
+
+}
+.footercopyright{
+text-align: center;
+color: blanchedalmond;
+
+border-top: 2px solid gray;
+margin-top: 300px;
+
+
+}
+.courseby{
+ 
+    margin-top: 200px;
+   
+ margin-left: -460px;
+    width: 1590px;
+}
+.navboxcontrol2{
+margin-top: 10px;
+width: 1590px;
+margin-left: -580px;
+
+
+}
+.nav2align{
+margin-left: -100px;
+
+}
+.allcoursee{
+   
+    margin-left: -440px;
+    width: 1300px;
+    
+   
+    
+}
+.allcoursebtn{
+    text-align: center;
+    margin-top: 50px;
+    margin-left: -20px;
+}
+.courseregcommand{
+ margin-left: 50px;
+
+}
+.regcourse{
+margin-left: 150px;
+
+width: 1300px;
+
+}
+.carousel-control-prev-icon{
+    margin-left: 32px;
+    background-color: rgba(128, 128, 128, 0.815);
+    height: 390px;
+}
+
+.carousel-control-next-icon{
+    
+    background-color: rgba(128, 128, 128, 0.815);
+    height: 390px;
+}
+.carousel slide{
+
+    
+}
